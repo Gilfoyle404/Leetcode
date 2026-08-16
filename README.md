@@ -64,10 +64,6 @@ This repository documents my progress through LeetCode and the Blind 75 study pl
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Array, Hash Map | [C++](solutions/leetcode/cpp/0001-two-sum.cpp) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List | [C++](solutions/leetcode/cpp/0002-add-two-numbers.cpp) |
 
-## Using the solutions
-
-Each file contains the `Solution` class expected by LeetCode. Open a solution from the index, then copy it into the matching problem editor on LeetCode. Types such as `ListNode` and `TreeNode` are supplied by the platform.
-
 ## Progress
 
 - [x] Arrays and hashing
