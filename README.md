@@ -81,6 +81,3 @@ Each file contains the `Solution` class expected by LeetCode. Open a solution fr
 - [ ] Heaps
 - [ ] Backtracking
 
-## Disclaimer
-
-These solutions are for learning and reference. Try solving each problem yourself before looking at an implementation.
