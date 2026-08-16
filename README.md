@@ -8,7 +8,6 @@
 [![Python](https://img.shields.io/badge/Python-22-3776AB?style=for-the-badge&logo=python&logoColor=white)](solutions/blind-75/python)
 [![C++](https://img.shields.io/badge/C++-2-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](solutions/leetcode/cpp)
 
-_S23E04: The one where Vishnu tries to solve LeetCode._
 
 </div>
 
